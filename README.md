@@ -59,15 +59,13 @@
 <br/>
 
 
-
+<div align="center">
 <!-- Анимированный snake граф коммитов -->
 
 
 <br/><br/>
 
 <!-- GitHub Stats карточки -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kursive&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kursive&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
