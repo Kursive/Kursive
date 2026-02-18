@@ -5,6 +5,7 @@
 
 <!-- Анимированный аватар-заголовок -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=90&text=Kursive&fontAlign=50&fontSize=55&fontColor=A78BFA&animation=fadeIn&desc=Backend%20Developer%20%7C%20C%23%20%2F%20ASP.NET%20Core&descAlign=50&descAlignY=80&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+%2F+ASP.NET+Core+Engineer;Building+clean+%26+scalable+APIs" alt="Typing SVG" />
 
 <br/>
 
