@@ -4,6 +4,7 @@
 <div align="center">
 
 <!-- Анимированный аватар-заголовок -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Kursive&fontAlign=50&fontSize=55&fontColor=A78BFA&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+%2F+ASP.NET+Core+Engineer;Building+clean+%26+scalable+APIs" alt="Typing SVG" />
 
