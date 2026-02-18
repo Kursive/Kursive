@@ -10,7 +10,6 @@
 <br/>
 
 <!-- Анимированный typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+clean+%26+scalable+APIs;⚙️+ASP.NET+Core+%7C+C%23+%7C+.NET;🗄️+SQL+Server+%7C+PostgreSQL+%7C+Redis;🐳+Docker+%7C+REST+%7C+Clean+Architecture;💡+Always+learning%2C+always+building..." alt="Typing SVG" />
 
 <br/><br/>
 
