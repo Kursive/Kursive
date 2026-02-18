@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kursive&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" /> 
 
 <br/>
 
@@ -59,6 +59,6 @@
 
 ---
 
-<sub>⚡ Профиль оформлен с минимализмом и ❤️</sub>
+<sub>❤️</sub>
 
 </div>
