@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Анимированный аватар-заголовок -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=90&text=YOUR_NAME&fontAlign=50&fontSize=55&fontColor=A78BFA&animation=fadeIn&desc=Backend%20Developer%20%7C%20C%23%20%2F%20ASP.NET%20Core&descAlign=50&descAlignY=80&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=90&text=Kursive&fontAlign=50&fontSize=55&fontColor=A78BFA&animation=fadeIn&desc=Backend%20Developer%20%7C%20C%23%20%2F%20ASP.NET%20Core&descAlign=50&descAlignY=80&descSize=18" />
 
 <br/>
 
