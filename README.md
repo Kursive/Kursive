@@ -30,11 +30,11 @@
 <!-- Анимированные бейджи через capsule-render -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,idea,visualstudio,vscode&theme=dark&perline=8" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,linux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,linux,maven&theme=dark&perline=8" />
 
 <br/><br/>
 
@@ -47,6 +47,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 </div>
 
