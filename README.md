@@ -56,36 +56,6 @@
 
 ---
 
-## 📊 Статистика
-
-<br/>
-
-
-<div align="center">
-<!-- Анимированный snake граф коммитов -->
-
-
-<br/><br/>
-
-<!-- GitHub Stats карточки -->
-
-<br/><br/>
-
-<!-- Анимированный streak -->
-<img src="https://streak-stats.demolab.com/?user=Kursive&theme=transparent&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B9D&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=6e7681&stroke=A78BFA" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Animated activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kursive&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FF6B9D&area=true&hide_border=true&area_color=A78BFA" />
-
-</div>
-
-<br/>
-
----
-
-
 ## 📫 Связаться
 
 <br/>
